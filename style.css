@@ -1,0 +1,43 @@
+body{
+    background-image:url(img/showcase.jpg);
+}
+#banan {
+    background-color: yellow;
+    color: blue;
+    border: 1px solid black;
+    text-align: center;
+}
+h1{
+    font-family: Roboto;
+}
+h2{
+    text-align: center;
+}
+#sigma {
+    text-align: left;
+    background-color: grey;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#skibidi{
+    text-align: left;
+    background-color: grey;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#toilet{
+    text-align: left;
+    background-color: grey;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#sidfot{
+    margin-left:29%;
+}
+
+p{
+    text-align: center;
+}
